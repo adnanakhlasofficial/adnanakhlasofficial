@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Hi there, I'm Adnan Bin Akhlas 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
 ###
 
-<p align="left">🚀 MERN Stack Developer | 💻 Tech  Enthusiast | 🌟 Lifelong Learner</p>
+<p align="left">I’m Adnan Bin Akhlas, a MERN Stack developer based in Dhaka, Bangladesh. I’m passionate about building user-friendly web applications and always eager to learn new technologies.</p>
 
 ###
 
